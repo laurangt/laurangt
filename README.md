@@ -5,10 +5,11 @@
 - 🌱 I’m currently working on my own projects and continuing to learn.
 - ⚡ Fun fact: I love working out, travelling and the city life.
 - 📫 How to reach me **laurangt@yahoo.com**
+- 📒 My portfolio: <a href="https://troopl.com/laurangt" target="_blank">Troopl</a>
 
 <h3>Connect with me:</h3>
 <p>
-<a href="https://linkedin.com/in/laurangt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurangt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/laurangt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurangt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
