@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on my own projects and continuing to learn.
 - ⚡ Fun fact: I love working out, travelling and the city life.
 - 📫 How to reach me **laurangt@yahoo.com**
-- 📒 My portfolio: <a href="https://troopl.com/laurangt" target="_blank">Troopl</a>
+- 📒 My portfolio: <a href="[https://troopl.com/laurangt](https://portfolio-laurangt.herokuapp.com/)" target="_blank">Portfolio</a>
 
 <h3>Connect with me:</h3>
 <p>
