@@ -3,7 +3,6 @@
 
 - 👩🏻‍🎓 Recently graduated from the Le Wagon Web Development Bootcamp in Madrid.
 - 🌱 I’m currently working on my own projects and continuing to learn.
-- ⚡ Fun fact: I love working out, travelling and the city life.
 - 📫 How to reach me **laurangt@yahoo.com**
 - 📒 My portfolio: <a href="https://portfolio-laurangt.herokuapp.com/" target="_blank">Portfolio</a>
 
