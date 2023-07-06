@@ -2,9 +2,7 @@
 <h3>A full-stack developer</h3>
 
 - 👩🏻‍🎓 Recently graduated from the Le Wagon Web Development Bootcamp in Madrid.
-- 🌱 I’m currently working on my own projects and continuing to learn.
 - 📫 How to reach me **laurangt@yahoo.com**
-- 📒 My portfolio: <a href="https://portfolio-laurangt.herokuapp.com/" target="_blank">Portfolio</a>
 
 <h3>Connect with me:</h3>
 <p>
