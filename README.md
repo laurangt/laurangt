@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Laura</h1>
-<h3>A full-stack developer</h3>
+<h3>Software Engineer</h3>
 
 - 👩🏻‍🎓 Recently graduated from the Le Wagon Web Development Bootcamp in Madrid.
 - 📫 How to reach me **laurangt@yahoo.com**
